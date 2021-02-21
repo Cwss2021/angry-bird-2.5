@@ -1,7 +1,7 @@
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
-
+var platform1;
 var engine, world;
 var box1, pig1;
 var backgroundImg,platform;
